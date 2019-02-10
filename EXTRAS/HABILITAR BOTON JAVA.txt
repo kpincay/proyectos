@@ -1,0 +1,24 @@
+/*HABILITAR UN ELEMENTO DESPUES DE HABER REALIZADO UNA ACCIÓN
+
+
+       public void validarCheck(){
+        if(jckconfirmar.isSelected()){
+            btnVerificar.setEnabled(true);
+        }else if (jckconfirmar.isSelected()==false){
+            btnVerificar.setEnabled(false);
+        }
+        }
+
+
+
+
+***************************
+-VALIDAR SOLO MAYUSULA EN EL INGRESO DE DATOS DEL PERSONAL
+-Condicional las provincias con sus respectivos cantones/ciudades
+-Peso en Lb.
+-Grado de discapacidad del trabajador
+-Registrar datos de hijo: cédula, nombre y edad
+-Hijos memores de edad deben sumarse al cálculo de pago de utilidades
+-Hijos con discapacidad así sea mayor de edad debe pagar cobrar utilidad
+-Registrar todos los hijos
+-La firma digital y sus posibles riesgos 
